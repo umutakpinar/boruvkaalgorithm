@@ -82,5 +82,5 @@ Aşağıdaki gif örnek bir grafın her bir adımını sırasıyla göstermekted
 </p>
 
 <p align="center">
-  Örnek Boruvka 
+  (Not: Github .gif uzantısını oynatmakta sorun çıkarabiliyor /assets/boruvka_example.gif altındaki görsele ulaşarak hareketli görüntüyü önizleyebilirsiniz.)
 </p>
