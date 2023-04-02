@@ -58,7 +58,7 @@ Toplam ağırlığın en düşük olduğu spanning tree gösterimine Minimum Yay
 Bu algoritmalardan biri olan Boruvka Algoritmasını artık inceleyebiliriz.
 
 ## Borùvka Algoritması
-1926 yılında Çek bilim insanı Otakar Boruvka tarafından geliştirilmiştir. Moravia Şehri için etkili bir elektrik dağıtım ağı kurulması için tasarlanan bu algoritmanın her bir adımına Boruvka adımı denir ve aşamalardan oluşur.
+1926 yılında Çek bilim insanı Otakar Boruvka tarafından geliştirilmiştir. Moravia Şehrine etkili bir elektrik dağıtım ağı kurulması için tasarlanan bu algoritmanın her bir adımına Boruvka adımı denir ve aşamalardan oluşur.
     "Boruvka adımı olarak adlandırılan her bir aşamada, grafındaki her bir düğüm birbirinden bağımsız alt ağaçlar ve grafı da en küçük ağırlıklı ağaçlardan oluşan bir ormanını oluşturur. Böylece, algoritma grafını bir sonraki adım için giriş verisi olarak oluşturur."
 Her Boruvka adımında lineer düzeyde zaman alan bu algoritmanın zaman karmaşıklığı O(mlogn) kadardır.
 Burada m çizgileri, n ise düğümleri temsil etmektedir. Bu algoritmada bütün alt ağaçlar birbirinden bağımsız hareket ettiğinden paralel işleme en uygun Minimum Spanning tree algoritması Boruvka Algoritmasıdır.
